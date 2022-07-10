@@ -1,7 +1,7 @@
 # Quantum-Computing-Workshops
 
 
-<h4> This Repository consists of the quantum computing beginner workshop programs </h4>
+<h4> This repository consists of homework questions from quantum computing beginner workshop programs. </h4>
 
 <li> Quantum Number Random Generator </li>
 <li> Half Adder </li>
